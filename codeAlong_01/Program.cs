@@ -8,7 +8,7 @@ namespace CodeAlong_01{
         static void Main(string[] args){
         // I want to print to the console my name and age 
         // and a brief description of myself;
-        v// What do we know about C-Sharp
+       // What do we know about C-Sharp
     // We still have VALUE-TYPES
     // strings, integers, arrays, floats, booleans
 
@@ -26,7 +26,7 @@ namespace CodeAlong_01{
 
                 int[] ages = {21,22,23,24,25,26,27,28,29,30,31};
                 // _____________________________________________________________
-                
+
             string myName = "Marcus";
 
             int marcusAge = 25;
